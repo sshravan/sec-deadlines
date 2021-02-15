@@ -6,9 +6,8 @@ domain: "sshravan.github.io"
 baseurl: "/sec-deadlines"
 
 twitter_username: hiddenmarkov
-github_username: sec-deadlines
+github_username: sshravan
 github_repo: sec-deadlines
-#ga_id: UA-104921371-1
+ga_id: UA-108499883-1
 
 markdown: kramdown
-

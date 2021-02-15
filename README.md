@@ -1,3 +1,14 @@
+## To do
+- [] Fix the tags
+- [] Sort the conferences by deadline?
+
+## Local testing
+```bash
+bundle init
+bundle add jekyll
+bundle exec jekyll serve
+```
+
 # Security and Privacy deadlines countdown
 
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
@@ -73,4 +84,3 @@ The timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), th
 [0]: https://momentjs.com/timezone/docs/#/zone-object/offset/
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
-
